@@ -3,7 +3,7 @@ bin
 include
 lib
 pip-selfcheck.json
-files/preprocessing/.ipynb_checkpoints/
+preprocessing/.ipynb_checkpoints/
 share/
 etc/
 
