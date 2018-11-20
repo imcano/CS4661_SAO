@@ -5,4 +5,4 @@ lib
 pip-selfcheck.json
 share
 etc
-.ipynb_checkpoints/
+/files/preprocessing/.ipynb_checkpoints/
