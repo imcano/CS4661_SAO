@@ -3,6 +3,14 @@ bin
 include
 lib
 pip-selfcheck.json
+<<<<<<< HEAD
 share
 etc
 data
+=======
+.ipynb_checkpoints
+share/
+etc/
+Scripts/
+tcl/
+>>>>>>> imcano_ws
